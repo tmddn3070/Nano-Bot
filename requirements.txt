@@ -6,7 +6,7 @@ praw
 aiohttp
 asyncio
 isodate
-ytpy==2020.8.17
+ytpy
 validators
 pixivpy-async
 asyncpraw
